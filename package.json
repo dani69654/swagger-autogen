@@ -1,0 +1,17 @@
+{
+  "name": "swagger-autogen",
+  "version": "1.0.0",
+  "description": "A script to auto generate swagger definition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "Daniele Martinelli",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "swagger-autogen": "^2.18.8"
+  }
+}
